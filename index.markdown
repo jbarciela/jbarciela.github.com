@@ -10,5 +10,6 @@ Hi
 <div>
     <ul>
         <li><a href="https://gist.github.com/jbarciela/5f5e4b03fc3cba5404879a5666237ca7">FindFirstUnique Gist</a></li>
+        <note>Given a sequence of characters, find the first character that occurs exactly once.</note>
     </ul>
 </div>
