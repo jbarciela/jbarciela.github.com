@@ -7,12 +7,15 @@ title: Home
 ---
 
 ## Where you will find my notes about technology.
-
-<img src="assets/jb.svg"/>
+<span class="note">(and it is a mess at the moment)</span>
 
 <div>
     <ul>
-        <li><a href="https://gist.github.com/jbarciela/5f5e4b03fc3cba5404879a5666237ca7">FindFirstUnique Gist</a></li>
+        <li><a href="https://gist.github.com/jbarciela/5f5e4b03fc3cba5404879a5666237ca7" target="_blank">FindFirstUnique Gist</a></li>
         <note>Given a sequence of characters, find the first character that occurs exactly once.</note>
+
+        <li><a href="https://github.com/jbarciela/rest-demo" target="_blank">Spring Boot Demo</a></li>
+        <note>A Spring Boot REST demo project with Unit Tests, Code Coverage, Actuator, Security, JavaDoc and references to learn more.</note>
+        
     </ul>
-</div>
+ </div>
