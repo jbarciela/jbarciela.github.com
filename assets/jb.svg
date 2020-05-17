@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="drawing.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   width="32.0px"
+   height="32.0px"
+   viewBox="0 0 32.0 32.0"
+   version="1.1"
+   id="SVGRoot">
+  <defs
+     id="defs46" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="1005"
+     inkscape:window-width="1680"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="16.324552"
+     inkscape:cx="20.704804"
+     inkscape:zoom="22.96875"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       type="xygrid"
+       id="grid55" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata49">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       transform="translate(-0.47891156)"
+       id="g92">
+      <text
+         xml:space="preserve"
+         style="font-size:37.3333px;line-height:1.25;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono'"
+         x="10.134694"
+         y="27.628571"
+         id="text64"><tspan
+           sodipodi:role="line"
+           id="tspan62"
+           x="10.134694"
+           y="27.628571">B</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;line-height:1.25;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono'"
+         x="-0.048979558"
+         y="29.4585"
+         id="text68"><tspan
+           sodipodi:role="line"
+           id="tspan66"
+           x="-0.048979558"
+           y="29.4585">J</tspan></text>
+    </g>
+  </g>
+</svg>

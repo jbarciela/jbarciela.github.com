@@ -8,6 +8,8 @@ title: Home
 
 ## Where you will find my notes about technology.
 
+<img src="assets/jb.svg"/>
+
 <div>
     <ul>
         <li><a href="https://gist.github.com/jbarciela/5f5e4b03fc3cba5404879a5666237ca7">FindFirstUnique Gist</a></li>
