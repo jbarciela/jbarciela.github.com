@@ -15,7 +15,7 @@ title: Home
         <note>Given a sequence of characters, find the first character that occurs exactly once.</note>
 
         <li><a href="https://github.com/jbarciela/rest-demo" target="_blank">Spring Boot Demo</a></li>
-        <note>A Spring Boot REST demo project with Unit Tests, Code Coverage, Actuator, Security, JavaDoc and references to learn more.</note>
+        <note>A Dockerized Spring Boot REST demo project with Unit Tests, Code Coverage, Actuator, Security, JavaDoc and references to learn more.</note>
         
     </ul>
  </div>
