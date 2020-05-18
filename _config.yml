@@ -21,9 +21,10 @@
 title: Jaime is playing with technology and taking notes
 email: jbarciela@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I started programming on a PC-8201, a block breaker game.
+  Nowadays is Java, SQL, NoSQL, HTML5, SCSS, and 10^10 or so more things.
+  I'm thankful for good books: The Pragmatic Programmer and Don't Make Me Think are top shelf.
+  Writting a blog is a solid lifehack. This is my playground.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author: jbarciela
@@ -31,8 +32,15 @@ author: jbarciela
 github_username:  jbarciela
 linkedin_username: jbarciela
 
+#logo: /assets/img/logo.png
+logo: /assets/img/pc-8201-small.png
+#show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+
 # Build settings
-theme: minima
+#theme: minima
+
+# https://github.com/pages-themes/minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
